@@ -29,8 +29,6 @@ hi Search			guibg=#d7d7af 	 ctermbg=187	guifg=#000000	ctermfg=0
 hi Statement	    guifg=#d1605e    ctermfg=167    gui=none    	cterm=none
 hi Special	    	guifg=#e0e0e0    ctermfg=254    gui=none    	cterm=none
 hi SpecialKey	    guifg=#9acd32    ctermfg=247    gui=none    	cterm=none
-hi StatusLine	    guibg=#30323b    ctermbg=237    guifg=#e0e0e0   ctermfg=254    	gui=none    cterm=none
-hi StatusLineNC	    guibg=#30323b    ctermbg=237    guifg=#e0e0e0   ctermfg=254    	gui=none    cterm=none
 hi String	    	guifg=#ddc96d    ctermfg=185    gui=none    	cterm=none
 hi StorageClass	    guifg=#bdb76b    ctermfg=250    gui=none    	cterm=none
 hi Title	    	guifg=#e0e0e0    ctermfg=254    gui=none    	cterm=none
